@@ -1,6 +1,6 @@
 /**
  * --------------------------------------------------------------------------
- * Bootstrap (v5.1.0): alert.js
+ * Bootstrap (v5.1.3): alert.js
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
  */
@@ -90,6 +90,7 @@ class Alert extends BaseComponent {
  */
 
 enableDismissTrigger(Alert, 'close')
+
 /**
  * ------------------------------------------------------------------------
  * jQuery

@@ -1,7 +1,7 @@
 /**
  * --------------------------------------------------------------------------
- * Bootstrap (v5.1.0): util/focustrap.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Bootstrap (v5.1.3): util/focustrap.js
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -78,11 +78,7 @@ class FocusTrap {
             trapElement
         } = this._config
 
-        if (
-            target === document ||
-            target === trapElement ||
-            trapElement.contains(target)
-        ) {
+        if (target === document || target === trapElement || trapElement.contains(target)) {
             return
         }
 

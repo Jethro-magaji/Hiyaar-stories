@@ -2,7 +2,7 @@
  * Blogzine - Blog and Magazine Bootstrap 5 Theme
  *
  * @author Webestica (https://www.webestica.com/)
- * @version 1.0.1
+ * @version 1.0.2
  **/
 
 
@@ -23,6 +23,8 @@ Table Of Content
 12 GLIGHTBOX
 13 ISOTOPE
 14 DARK MODE
+15 FONT SIZE
+16 LAZY LOAD
 ====================== */
 
 "use strict";
@@ -78,8 +80,10 @@ var e = {
             e.stickyPost(),
             e.stickyFooter(),
             e.lightBox(),
-            e.enableIsotope();
-        e.darkMode();
+            e.enableIsotope(),
+            e.darkMode(),
+            e.zooming(),
+            e.lazyLoading();
     },
     isVariableDefined: function(el) {
         return typeof !!el && (el) != 'undefined' && el != null;
@@ -348,6 +352,8 @@ var e = {
                     arrowKeys: true,
                     items: sliderItems,
                     textDirection: sliderDirection,
+                    lazyload: true,
+                    lazyloadSelector: '.lazy',
                     responsive: {
                         0: {
                             items: Number(sliderItemsXs)
@@ -554,29 +560,84 @@ var e = {
 
         var dark = e.select('#darkModeSwitch');
         if (e.isVariableDefined(dark)) {
-            var dms = document.querySelector('#darkModeSwitch');
+            let theme = localStorage.getItem('data-theme');
             var style = document.getElementById("style-switch");
-            var mode = document.getElementsByTagName("BODY")[0];
             var dir = document.getElementsByTagName("html")[0].getAttribute('dir');
 
-            dms.addEventListener("click", function() {
+            var changeThemeToDark = () => {
+                document.documentElement.setAttribute("data-theme", "dark") // set theme to dark
                 if (dir == 'rtl') {
-                    if (style.getAttribute('href') == 'assets/css/style-rtl.css') {
-                        style.setAttribute('href', 'assets/css/style-dark-rtl.css');
-                    } else {
-                        style.setAttribute('href', 'assets/css/style-rtl.css');
-                    }
+                    style.setAttribute('href', 'assets/css/style-dark-rtl.css');
                 } else {
-                    if (style.getAttribute('href') == 'assets/css/style.css') {
-                        style.setAttribute('href', 'assets/css/style-dark.css');
-                    } else {
-                        style.setAttribute('href', 'assets/css/style.css');
-                    }
+                    style.setAttribute('href', 'assets/css/style-dark.css');
                 }
-                mode.classList.toggle("dark-mode");
+                localStorage.setItem("data-theme", "dark") // save theme to local storage
+            }
+
+            var changeThemeToLight = () => {
+                document.documentElement.setAttribute("data-theme", "light") // set theme light
+                if (dir == 'rtl') {
+                    style.setAttribute('href', 'assets/css/style-rtl.css');
+                } else {
+                    style.setAttribute('href', 'assets/css/style.css');
+                }
+
+                localStorage.setItem("data-theme", 'light') // save theme to local storage
+            }
+
+            if (theme === 'dark') {
+                changeThemeToDark()
+            } else if (theme == null || theme === 'light') {
+                changeThemeToLight();
+            }
+
+            const dms = document.querySelector('#darkModeSwitch');
+
+            dms.addEventListener('click', () => {
+                let theme = localStorage.getItem('data-theme'); // Retrieve saved them from local storage
+                if (theme === 'dark') {
+                    changeThemeToLight()
+                } else {
+                    changeThemeToDark()
+                }
+            });
+        }
+    },
+    // END: Dark mode
+
+    // START: 15 Font size
+    zooming: function() {
+        const doc = document.documentElement;
+        var radios = document.querySelectorAll('input[type=radio][name="fntradio"]');
+
+        //localStorage.setItem('fntradio');
+
+        radios.forEach(radio => {
+            radio.addEventListener("change", function() {
+                var idZ = radio.getAttribute('id');
+                if (idZ == 'font-sm') {
+                    doc.classList.remove('font-lg');
+                    doc.classList.add('font-sm');
+                } else if (idZ == 'font-default') {
+                    doc.classList.remove('font-sm', 'font-lg');
+                } else if (idZ == 'font-lg') {
+                    doc.classList.remove('font-sm');
+                    doc.classList.add('font-lg');
+                }
+            });
+        });
+    },
+    // END: Font size
+
+    // START: 16 Lazy Load
+    lazyLoading: function() {
+        var lazLoad = e.select('.lazy');
+        if (e.isVariableDefined(lazLoad)) {
+            var lazyLoadInstance = new LazyLoad({
+
             });
         }
     }
-    // END: Dark mode
+    // END: Lazy Load
 };
 e.init();
