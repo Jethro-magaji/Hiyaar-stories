@@ -1,0 +1,18 @@
+<!-- Card item START -->
+<div class="col-sm-6 col-lg-3">
+    <div class="card bg-transparent">
+        <!-- Card img -->
+        <img class="card-img rounded" src="{{ post.data.image }}" alt="Card image">
+        <div class="card-body px-0 pt-3">
+            <h6 class="card-title mb-0"><a href="{{ post.url }}" class="btn-link text-reset fw-bold">{{ post.data.title }}</a></h6>
+            <!-- Card info -->
+            <ul class="nav nav-divider align-items-center text-uppercase small mt-2">
+                <li class="nav-item">
+                    <a href="#" class="text-reset btn-link">{{post.data.author}}</a>
+                </li>
+                <li class="nav-item">{{ post.date | postDate }}</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Card item END -->
