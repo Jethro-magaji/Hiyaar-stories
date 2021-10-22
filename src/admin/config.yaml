@@ -11,9 +11,12 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Description", name: "shortDesc", widget: "string" }
       - { label: "Badge", name: "badge", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
+      - { label: "Author Image", name: "authorImage", widget: "image" }
+      - { label: "Author Bio", name: "authorBio", widget: "string" }
+      - { label: "Time Read", name: "timeRead", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Featured Image", name: "image", widget: "image" }
