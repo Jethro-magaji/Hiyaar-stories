@@ -8,8 +8,9 @@ collections:
   - name: "stories"
     label: "Stories"
     folder: "src/stories"
+    publish_mode: editorial_workflow 
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "shortDesc", widget: "string" }
