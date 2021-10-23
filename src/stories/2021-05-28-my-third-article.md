@@ -1,15 +1,15 @@
 ---
-title: 10 tell-tale signs you need to get a new startup.
+title: Initial problem of startups and their solution.
 author: Jack Black
 authorImage: /assets/images/avatar/11.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
 date: 2021-06-15
 tags: ["post", "hero"] 
-image: /assets/images/blog/16by9/big/02.jpg
+image: /assets/images/blog/16by9/big/03.jpg
 badge: Technology
 timeRead: 5 min read
 imageAlt: This is a test
-shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. 
+shortDesc: Thirty it matter enable become admire in giving. See resolved goodness felicity shy civility domestic.  
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Ut sem nulla pharetra diam sit amet nisl. Est velit egestas dui id ornare. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Ut sem viverra aliquet eget. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus a. At augue eget arcu dictum. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Amet aliquam id diam maecenas ultricies mi.

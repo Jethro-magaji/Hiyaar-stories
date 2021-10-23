@@ -1,15 +1,15 @@
 ---
-title: 10 tell-tale signs you need to get a new startup.
-author: Jack Black
+title: 7 common mistakes everyone makes while traveling.
+author: Larry
 authorImage: /assets/images/avatar/11.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
 date: 2021-06-15
 tags: ["post", "hero"] 
-image: /assets/images/blog/16by9/big/02.jpg
-badge: Technology
+image: /assets/images/blog/16by9/big/01.jpg
+badge: Javascript
 timeRead: 5 min read
 imageAlt: This is a test
-shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. 
+shortDesc: Particular way thoroughly unaffected projection favorable Mrs can be projecting own. 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed turpis tincidunt id. Sit amet nulla facilisi morbi tempus iaculis urna id volutpat. Erat nam at lectus urna duis convallis convallis. Purus faucibus ornare suspendisse sed nisi. Mauris rhoncus aenean vel elit. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Tellus rutrum tellus pellentesque eu tincidunt tortor. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eu mi bibendum neque egestas congue quisque.
