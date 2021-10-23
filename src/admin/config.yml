@@ -8,7 +8,6 @@ collections:
   - name: "stories"
     label: "Stories"
     folder: "src/stories"
-    publish_mode: editorial_workflow 
     create: true
     slug: "{{slug}}-{{year}}-{{month}}-{{day}}"
     fields:
