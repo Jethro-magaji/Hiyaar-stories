@@ -142,7 +142,9 @@ Header START -->
                                     <div class="row g-4 p-3 flex-fill">
                                         
                                         
-                                        {% include 'headers/header-article.njk' %}
+                                        {%- for post in collections.headers | reverse -%}
+                                            {% include 'headers/header-snippet.njk' %}
+                                        {%- endfor %}
                                         
                                         <!-- Card item START -->
                                         <div class="col-sm-6 col-lg-3">

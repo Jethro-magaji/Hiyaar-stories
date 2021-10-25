@@ -1,12 +1,12 @@
 ---
-title: 10 tell-tale signs you need to get a new startup.
-author: Jack Black
+title: Skills that you can learn from business.
+author: Judy Nguyen
 authorImage: /assets/images/avatar/11.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
-date: 2021-06-15
-tags: ["post", "last"] 
-image: /assets/images/blog/16by9/big/02.jpg
-badge: Technology
+date: 2021-09-15
+tags: ["post", "headers"] 
+image: /assets/images/blog/16by9/small/03.jpg
+badge: ReactJs
 timeRead: 5 min read
 imageAlt: This is a test
 shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. 
