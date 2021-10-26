@@ -1,13 +1,13 @@
 ---
-title: 10 tell-tale signs you need to get a new startup.
-author: Jack Black
-authorImage: /assets/images/avatar/11.jpg
-authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
-date: 2021-06-15
-tags: ["post", "header"] 
-image: /assets/images/blog/16by9/big/02.jpg
-badge: Technology
-timeRead: 5 min read
+title: 5 reasons why you shouldn't startup..
+author: Dennis
+authorImage: /assets/images/avatar/02.jpg
+authorBio: Dennis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
+date: 2021-04-10
+tags: ["post", "sponsor"] 
+image: /assets/images/blog/4by3/02.jpg
+badge: Startup
+timeRead: 3 min read
 imageAlt: This is a test
 shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. 
 ---

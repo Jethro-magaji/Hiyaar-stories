@@ -1,12 +1,12 @@
 ---
-title: Five unbelievable facts about money.
-author: Bryan
-authorImage: /assets/images/avatar/03.jpg
+title: 7 common mistakes everyone makes while traveling.
+author: Jacqueline
+authorImage: /assets/images/avatar/07.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
-date: 2021-01-19
+date: 2021-06-19
 tags: ["post", "sponsor"] 
-image: /assets/images/blog/4by3/03.jpg
-badge: ReactJs
+image: /assets/images/blog/4by3/05.jpg
+badge: VueJs
 timeRead: 6 min read
 imageAlt: This is a test
 shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. 

@@ -1,13 +1,13 @@
 ---
-title: 10 tell-tale signs you need to get a new startup.
-author: Jack Black
-authorImage: /assets/images/avatar/11.jpg
+title: The pros and cons of business agency.
+author: Samuel
+authorImage: /assets/images/avatar/01.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
-date: 2021-06-15
-tags: ["post", "header"] 
-image: /assets/images/blog/16by9/big/02.jpg
-badge: Technology
-timeRead: 5 min read
+date: 2021-09-12
+tags: ["post", "sponsor"] 
+image: /assets/images/blog/4by3/01.jpg
+badge: Web3
+timeRead: 3 min read
 imageAlt: This is a test
 shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. 
 ---
