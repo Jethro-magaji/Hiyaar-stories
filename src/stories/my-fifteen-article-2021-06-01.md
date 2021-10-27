@@ -4,7 +4,7 @@ author: Bryan
 authorImage: /assets/images/avatar/03.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
 date: 2021-01-19
-tags: ["post", "sponsor"] 
+tags: ["post", "sponsor", "latest"] 
 image: /assets/images/blog/4by3/03.jpg
 badge: ReactJs
 timeRead: 6 min read

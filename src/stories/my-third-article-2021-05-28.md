@@ -4,8 +4,8 @@ author: Jack Black
 authorImage: /assets/images/avatar/11.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
 date: 2021-06-15
-tags: ["post", "hero"] 
-image: /assets/images/blog/16by9/big/03.jpg
+tags: ["post", "hero", "latestlg"] 
+image: /assets/images/blog/16by9/05.jpg
 badge: Technology
 timeRead: 5 min read
 imageAlt: This is a test

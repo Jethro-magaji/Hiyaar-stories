@@ -4,7 +4,7 @@ author: Judy
 authorImage: /assets/images/avatar/07.jpg
 authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
 date: 2021-04-10
-tags: ["post", "sponsor"] 
+tags: ["post", "sponsor", "latest"] 
 image: /assets/images/blog/4by3/06.jpg
 badge: Flutter
 timeRead: 6 min read
