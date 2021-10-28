@@ -3,7 +3,7 @@ title: "An introduction to Web3: Did the web just get an upgrade or what?"
 shortDesc: An introduction to web3
 badge: Web3
 author: Daniel Anomfueme
-authorImage: /assets/images/08.jpg
+authorImage: /assets/images/03.jpg
 authorBio: Talks about tech, devrel, mobile development, android development,
   and developer community
 timeRead: 4 min read
