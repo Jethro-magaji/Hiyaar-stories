@@ -29,11 +29,11 @@
         content="{{ title }}">
     <!-- title shown in the actual shared post -->
     <meta property="og:description"
-        content="Hiyaar is a freelance marketplace for collaborating and hiring technical writers, content writers and developers. Our platform connects writers and companies or individuals that need them.">
+        content="{{ shortDesc }}">
     <!-- description shown in the actual shared post -->
     <meta property="og:image" content="{{ image }}">
     <!-- image link, make sure it's jpg -->
-    <meta property="og:url" content="https://stories.hiyaar.com">
+    <meta property="og:url" content="{{ url }}">
     <!-- where do you want your post to link to -->
     <meta property="og:type" content="article">
     <meta name="twitter:card" content="{{ image }}">
@@ -64,6 +64,10 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4252953549104398"
 
      crossorigin="anonymous"></script>
+
+     <!-- Google AMP -->
+
+     <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
