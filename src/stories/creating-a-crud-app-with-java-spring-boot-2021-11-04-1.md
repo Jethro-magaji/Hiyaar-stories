@@ -1,9 +1,8 @@
 ---
 title: Creating a CRUD app with Java Spring Boot
-shortDesc: Java is a multi-platform, object-oriented, and network-centric
-  language. Spring Boot is an open-source Java-based framework used to create a
+shortDesc: " Spring Boot is an open-source Java-based framework used to create a
   microservice. It provides a good platform for Java developers to develop
-  stand-alone and production-grade spring applications.
+  stand-alone and production-grade spring applications."
 badge: "Technology "
 author: "Omomurewa George-Ashiru "
 authorImage: /assets/images/murewa-1-.jpg
