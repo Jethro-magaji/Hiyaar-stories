@@ -3,7 +3,7 @@ title: "Top‌ ‌Wireframe‌ ‌Tools‌ ‌for‌ ‌Websites‌ ‌&‌ ‌M
 shortDesc: Going straight to coding without a ‘definite’ idea of what your app
   should look and feel like is very risky and can lead to unnecessary rework.
   It’s therefore necessary to plan a roadmap or process flow.
-badge: Technology
+badge: "Technology "
 author: "Omomurewa George-Ashiru "
 authorImage: /assets/images/murewa-1-.jpg
 authorBio: Omomurewa is an IT business analyst, software developer, technical
@@ -13,7 +13,7 @@ authorBio: Omomurewa is an IT business analyst, software developer, technical
 timeRead: 5 min
 date: 2021-11-03T21:46:24.242Z
 tags:
-  - Today
+  - today
 image: /assets/images/hero.jpg
 imageAlt: "hero "
 ---
@@ -130,3 +130,5 @@ Now that we’ve looked at just a few of the multiple tools (LucidChart, drawio,
 - [Wireframing yourinterface](https://www.justinmind.com/blog/why-wireframing-your-interface/)
 - [Adobe-xd](https://www.trustradius.com/products/adobe-xd/reviews?qs=pros-and-cons)
 - [It Management Software](https://www.getapp.com/it-management-software/a/lucidchart-online-diagramming-flowchart-and-drawing-software/compare/bizagi/)
+
+Thank you for reading, you can connect with me on [Twitter](http://twitter.com/Rachael_xx) and [Linkedin](https://www.linkedin.com/in/murewageorge-ashiru/). You can also check my [blog](https://blog.murewaashiru.com/) for interesting articles.
