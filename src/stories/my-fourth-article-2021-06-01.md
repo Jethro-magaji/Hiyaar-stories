@@ -1,15 +1,20 @@
 ---
 title: 10 tell-tale signs you need to get a new startup.
+shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do
+  at tore in park feet near my case.
+badge: Technology
 author: Jack Black
 authorImage: /assets/images/avatar/11.jpg
-authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also reports on breaking news based in London. He has written about JavaScript, NodeJs, and the role of developers in Tech writing since 2015. 
-date: 2021-06-15
-tags: ["post", "header"] 
-image: /assets/images/blog/16by9/big/02.jpg
-badge: Technology
+authorBio: Louis Ferguson is a senior editor for the Hiyaar stories and also
+  reports on breaking news based in London. He has written about JavaScript,
+  NodeJs, and the role of developers in Tech writing since 2015.
 timeRead: 5 min read
+date: 2021-06-15
+tags:
+  - post
+  - header
+image: /assets/images/blog/16by9/big/02.jpg
 imageAlt: This is a test
-shortDesc: No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In mollis nunc sed id semper risus in. Elit eget gravida cum sociis natoque penatibus. Enim facilisis gravida neque convallis a cras semper. Eget nulla facilisi etiam dignissim diam quis. Odio aenean sed adipiscing diam donec adipiscing tristique risus nec. Quisque id diam vel quam elementum pulvinar etiam. Congue mauris rhoncus aenean vel elit scelerisque mauris. Amet risus nullam eget felis eget nunc. Tellus in hac habitasse platea dictumst. Maecenas accumsan lacus vel facilisis volutpat. Lorem ipsum dolor sit amet consectetur adipiscing. A scelerisque purus semper eget duis at tellus at. Magna fringilla urna porttitor rhoncus dolor purus non. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl.
