@@ -140,5 +140,4 @@ Thanks for reading! Don’t forget to check my [Github repository](https://githu
 - [Create and delete Power Virtual Agents bots](https://docs.microsoft.com/en-us/power-virtual-agents/authoring-first-bot)
 
 
-- [Microsoft Power Automate documentation]
-(https://docs.microsoft.com/en-us/power-automate/)
+- [Microsoft Power Automate documentation](https://docs.microsoft.com/en-us/power-automate/)
