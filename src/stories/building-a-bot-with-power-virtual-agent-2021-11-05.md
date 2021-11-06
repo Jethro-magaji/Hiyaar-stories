@@ -4,7 +4,7 @@ shortDesc: With Microsoft's Power Virtual Agent, you can create a chatbot
   intuitively with a low-code/no-code approach and little-to-no understanding of
   natural language
 badge: hero
-author: "Benedict Iheagwara "
+author: Benedict
 authorImage: /assets/images/ato-1-.jpg
 authorBio: Benedict Ifeanyi Iheagwara is a Tech Enthusiast with the volunteer
   spirit. He is a graduate of the University of Ghana where he studied
