@@ -6,10 +6,10 @@ shortDesc: " Spring Boot is an open-source Java-based framework used to create a
 badge: "Technology "
 author: "Omomurewa George-Ashiru "
 authorImage: /assets/images/murewa-1-.jpg
-authorBio: Omomurewa is an IT business analyst, software developer, technical
-  writer and chartered accountant in training. She has experience in supporting
-  business solution software and delivery of process innovation in the financial
-  services industry
+authorBio: Omomurewa George-Ashiru  is an IT business analyst, software
+  developer, technical writer and chartered accountant in training. She has
+  experience in supporting business solution software and delivery of process
+  innovation in the financial services industry
 timeRead: 10 min
 date: 2021-11-04T11:36:37.907Z
 tags:
