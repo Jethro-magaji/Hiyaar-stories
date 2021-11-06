@@ -39,15 +39,14 @@ You require the following to create and manage bots:
 
 ### Table of Contents
 
-* Building a chatbot with Power Virtual Agent
-* Prerequisites
-* Power Virtual Agents
-* Let’s build a bot
-* Publishing your bot
-* Monitoring your bot
-* Key takeaways
-* Conclusion
-* Further reading
+* [Prerequisites](#prerequisites)
+* [Power Virtual Agents](#power-virtual-agents)
+* [Building a bot](#building-a-bot)
+* [Publishing your bot](#publishing-your-bot)
+* [Monitoring your bot](#monitoring-your-bot)
+* [Key takeaways](#key-takeaways)
+* [Conclusion](#conclusion)
+* [Further reading](#further-reading)
 
 ### Power Virtual Agents
 
@@ -57,7 +56,7 @@ The Power Virtual Agents platform is user-friendly with no real infrastructure t
 
 Sounds exciting right? Let's build a simple Pan Macmillan bot! Pan Macmillan is a book recommendation assistant owned by Pan Macmillan Publishing.
 
-#### Let’s build a bot
+####  Building a bot
 
  To get started, go to the Power Virtual Agent website and sign up for an account. If you don't have a license, that’s alright. A free trial is available on the website to get you started.
 
