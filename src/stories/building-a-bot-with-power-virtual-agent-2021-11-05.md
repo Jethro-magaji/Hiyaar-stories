@@ -3,7 +3,7 @@ title: Building a bot with Power Virtual Agent
 shortDesc: With Microsoft's Power Virtual Agent, you can create a chatbot
   intuitively with a low-code/no-code approach and little-to-no understanding of
   natural language
-badge: " Technology"
+badge: hero
 author: Benedict
 authorImage: /assets/images/ato-1-.jpg
 authorBio: Benedict Ifeanyi Iheagwara is a Tech Enthusiast with the volunteer
@@ -12,10 +12,10 @@ authorBio: Benedict Ifeanyi Iheagwara is a Tech Enthusiast with the volunteer
   in Microsoft Power BI and Power Platforms, and machine learning. He loves
   working community building and sharing valuable tips.
 timeRead: 10 min
-date: 2021-11-06T12:07:49.135Z
+date: 2021-11-05T08:24:06.328Z
 tags:
   - post
-  - hero
+  - Technology
 image: /assets/images/hero.jpg
 imageAlt: boot
 ---
