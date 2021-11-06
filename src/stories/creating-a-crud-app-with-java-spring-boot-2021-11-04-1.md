@@ -4,7 +4,7 @@ shortDesc: " Spring Boot is an open-source Java-based framework used to create a
   microservice. It provides a good platform for Java developers to develop
   stand-alone and production-grade spring applications."
 badge: "Technology "
-author: "Omomurewa George-Ashiru "
+author: "Omomurewa "
 authorImage: /assets/images/murewa-1-.jpg
 authorBio: Omomurewa is an IT business analyst, software developer, technical
   writer and chartered accountant in training. She has experience in supporting
