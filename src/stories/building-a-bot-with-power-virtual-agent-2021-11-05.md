@@ -12,7 +12,7 @@ authorBio: Benedict Ifeanyi Iheagwara is a Tech Enthusiast with the volunteer
   in Microsoft Power BI and Power Platforms, and machine learning. He loves
   working community building and sharing valuable tips.
 timeRead: 10 min
-date: 2021-11-05T08:24:06.328Z
+date: 2021-11-06T12:07:49.135Z
 tags:
   - post
   - Technology
