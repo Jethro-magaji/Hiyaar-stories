@@ -1,12 +1,9 @@
 ---
 title: How to use WordPress Elementor page builder
-shortDesc: "The Elementor page builder is a plugin that can be embedded into
-  WordPress, It is simple to use and has a nice "
+shortDesc: The Elementor page builder is a plugin that can be embedded into
+  WordPress, It is simple to use and has a nice interface.
 badge: "Technology. "
-author: Sulyman Hammed is a WordPress developer at Magnital Agency. He graduated
-  from Kwara State Polytechnic, Ilorin which he obtain Higher National Diploma
-  in Computer Science. He is a software development, web developer and
-  enthusiastic about  Artificial Intelligence
+author: "Sulyman Hammed "
 authorImage: /assets/images/image1.png
 authorBio: Sulyman Hammed is a WordPress developer at Magnital Agency. He
   graduated from Kwara State Polytechnic, Ilorin which he obtain Higher National
@@ -100,10 +97,71 @@ This is an interface where you will have access to the Elementor workspace. It h
 
 ![Elementor Interface](/assets/images/image4.png "View of Elementor intreface")
 
+### Creating your design
 
-Getting to the interface, you can start creating your design. At the top of the interface, there are three taps which are **Elements, Global, and SEO (Search Engine Optimization).** 
-The elements tab consist of elements widget that is been categorized into three, which are as follows: 
-Basic/General Element is a free element widget to use in Elementor. These are widgets that are mainly used for creating any professional web design. 
-Pro Element is a pay-to-use element in Elementor. It gives access to advanced features which can not be accomplished with the basic widget and brings convenience while building your designs.
-Theme Element: it gives the opportunity to build and customize every part of your website which includes a header, footer, archive, and more.
-WooCommerce Widgets: This allows you to design an online shopping website. 
+At the top of the interface, there are three taps which are **Elements, Global, and SEO (Search Engine Optimization).** 
+The elements tab consist of elements widget  which are as follows: 
+
+* Basic/General Element is a free element widget to use in Elementor. These are widgets that are mainly used for creating any professional web design. 
+* Pro Element is a pay-to-use element in Elementor. It gives access to advanced features which can not be accomplished with the basic widget and brings convenience while building your designs.
+* Theme Element: it gives the opportunity to build and customize every part of your website which includes a header, footer, archive, and more.
+* WooCommerce Widgets: This allows you to design an online shopping website.
+
+  **Basic/general widget snippet**
+
+![General widget snippet ](/assets/images/image5.png "General widget snippet ")
+
+**Pro widget snippet**
+
+![Pro widget snippet ](/assets/images/image7.png "Pro widget snippet ")
+
+**Theme Element snippet**
+
+![ Theme Element snippet](/assets/images/image6.png " Theme Element snippet")
+
+**WooCommerce Widget snippet**
+
+![WooCommerce Widget snippet](/assets/images/image8.png "WooCommerce Widget snippet")
+
+
+#### The Global tap
+This tap allows developers to save widgets as a global, use the widget in several areas, and can be edited in a single area.
+
+#### The SEO tap
+This feature allows the developers to know the raking status of the page on the search engines.
+
+
+Also at the bottom of the interface the following taps can be found and their description.
+
+#### Setting
+This provides accessibility to the general setting of the page where you can make changes to the page title, know the status of the page, add feature images, hide/show page title as well as page layout.
+
+#### Navigator 
+This will give an overview display of all pages elements, and you will be able to easily move around any sections, columns, and widgets within the pages. 
+#### History
+This window allows you to view all that you have been doing with respect to your current work in progress and able to revisit past history work.
+Responsive Mode: 
+This window allows you to design for different screen sizes (Mobile phone, Tablet, and Desktop) respectively.
+#### Preview Changes
+This window allows you to view changes made to the page.
+#### Update 
+Any changes made have to be updated before it takes effect on the page. 
+#### Elementor Canvas 
+This is the design area where you can start to implement your design in order to create an awesome and acceptable web page.
+
+
+### Conclusion
+Elementor page builder has contributed to the performance,  increases WordPress website efficiency, gives room to implement your own creativity, and ability to eliminate unwanted dependency which may cause slow loading time.
+ With Elementor you can design whatever you wish.
+Start using Elementor page builder today.
+
+### Further reading
+- [Elementor for Wordpress](https://elementor.com/blog/what-is-elementor-for-wordpress/)
+- [Free-wordpress-themes](https://elementor.com/free-wordpress-themes/)
+
+Thank you for reading my article you can connect with me on [Facebook](https://www.facebook.com/sulyman.hammed.54),
+
+
+
+[Instragram](https://www.instagram.com/hammed.sulyman/), [Twitter](https://www.twitter.com/HammedSulyman3) and you can also check out  my [linkedin](https://www.linkedin.com/in/sulyman-hammed-60862a138) profile. 
+
