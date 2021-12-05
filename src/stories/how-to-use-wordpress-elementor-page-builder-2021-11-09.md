@@ -13,7 +13,7 @@ timeRead: 10 min
 date: 2021-11-09T11:41:37.430Z
 tags:
   - hero
-image: /assets/images/elementor-page-builder.jpg
+image: /assets/images/elementor.png
 imageAlt: WordPress Elementor
 ---
 ### Introduction
