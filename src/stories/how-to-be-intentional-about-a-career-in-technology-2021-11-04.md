@@ -15,8 +15,8 @@ timeRead: 3 min
 date: 2021-11-04T14:14:41.962Z
 tags:
   - post
-  - latest
-image: /assets/images/tech.jpg
+  - latestlg
+image: /assets/images/get-started-with-tech.png
 imageAlt: Technology
 ---
  For a career in technology, one cannot just fill an application form, attend an interview session, and expect to get a job that many are competing for.
