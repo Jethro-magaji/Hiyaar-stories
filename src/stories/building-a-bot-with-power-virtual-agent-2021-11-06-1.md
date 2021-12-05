@@ -15,7 +15,7 @@ timeRead: 10 min
 date: 2021-11-06T12:12:45.204Z
 tags:
   - hero
-image: /assets/images/hero.jpg
+image: /assets/images/chat-bot.png
 imageAlt: Power Virtual agent
 ---
 ### Introduction
