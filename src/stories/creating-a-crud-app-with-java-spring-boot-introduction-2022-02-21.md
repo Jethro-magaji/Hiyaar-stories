@@ -1,8 +1,8 @@
 ---
 title: Creating a CRUD app with Java Spring Boot Introduction
-shortDesc: This tutorial aims to walk you  through on building a Spring Boot
-  REST CRUD API using Java Spring Boot with REST APIs serving as a middleman
-  between the backend server and the frontend/mobile application
+shortDesc: This tutorial aims to walk you  through  building a Spring Boot REST
+  CRUD API using Java Spring Boot with REST APIs serving as a middleman between
+  the backend server and the frontend/mobile application
 badge: "Programming "
 author: Omomurewa George
 authorImage: /assets/images/murewa-1-.jpg
@@ -21,7 +21,7 @@ imageAlt: Image by Sayan Majhi on unsplash
 
 Java is a multi-platform, object-oriented, and network-centric language. Spring Boot is an open-source Java-based framework used to create a microservice. It provides a good platform for Java developers to develop stand-alone and production-grade spring applications.
 
-This tutorial aims to walk you through on building a Spring Boot REST CRUD API using Java Spring Boot with REST APIs serving as a middleman between the backend server and the frontend/mobile application.
+This tutorial aims to walk you through  building a Spring Boot REST CRUD API using Java Spring Boot with REST APIs serving as a middleman between the backend server and the frontend/mobile application.
 
 ### Learning Objectives
 
@@ -63,7 +63,8 @@ Spring Initializer is an easy way to get started with your spring boot applicati
 * Sync the dependencies with Gradle. Although, this might happen automatically.
 
   ![Spring Initializr](/assets/images/image1.png "Spring Initializer")
-*
+
+
 
 ### Creating the Movie Model
 
@@ -84,7 +85,7 @@ public class Movie {
 
 Let’s also create a constructor, getters & setters, and the toString() method
 
-A **Constructor** is a block of code that’s called when an instance of an object is created.
+A **Constructor** is a block of code that is called when an instance of an object is created.
 Getters and setters are the class methods used to manipulate the data of the class fields. A Getter is used to read or get the data of the class field whereas a setter is used to set the data of the class field to some variable. 
 The `toString()` is an in-built method in Java that returns the value given to it with the string format.
 
@@ -150,7 +151,7 @@ public class Movie {
 
 ### Creating the Movie Service
 
-A service contains an interface or abstract class that defines the functionalities it provides. We, however, won’t be creating an interface, we’ll go straight to define the functionalities. Will the lack of interface not affect the reader of your article?
+A service contains an interface or abstract class that defines the functionalities it provides. We, however, won’t be creating an interface, we’ll go straight to define the functionalities. 
 
 In the root package of our application create a package with the name **services**. In the services package created above, create a class called **MovieService**.
 As opposed to setting up a database, we’ll be using dummy data which we’ll store in an **ArrayList**
