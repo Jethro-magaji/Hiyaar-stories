@@ -1,8 +1,8 @@
 ---
 title: Creating a CRUD app with Java Spring Boot Introduction
-shortDesc: This tutorial aims to walk through building a Spring Boot REST CRUD
-  API using Java Spring Boot with REST APIs serving as a middleman between the
-  backend server and the frontend/mobile application
+shortDesc: This tutorial aims to walk you  through on building a Spring Boot
+  REST CRUD API using Java Spring Boot with REST APIs serving as a middleman
+  between the backend server and the frontend/mobile application
 badge: "Programming "
 author: Omomurewa George
 authorImage: /assets/images/murewa-1-.jpg
@@ -21,7 +21,7 @@ imageAlt: Image by Sayan Majhi on unsplash
 
 Java is a multi-platform, object-oriented, and network-centric language. Spring Boot is an open-source Java-based framework used to create a microservice. It provides a good platform for Java developers to develop stand-alone and production-grade spring applications.
 
-This tutorial aims to walk through building a Spring Boot REST CRUD API using Java Spring Boot with REST APIs serving as a middleman between the backend server and the frontend/mobile application.
+This tutorial aims to walk you through on building a Spring Boot REST CRUD API using Java Spring Boot with REST APIs serving as a middleman between the backend server and the frontend/mobile application.
 
 ### Learning Objectives
 
